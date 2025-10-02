@@ -14,7 +14,7 @@ Pedro Gulherme Cardoso Silva Lima
 
 <hr>
 
-## Avaliação da linguagem
+## 📌 Avaliação da linguagem
 
 ### Sistema de tipos: sistema de tipagem estática
 ### Forma de execução: compilação
@@ -46,7 +46,7 @@ Justificativa: São usados para alternar o jogador e para determinar o resultado
 
 
 
-## Modularização
+## 📌 Modularização
 
 ### - O Laço Principal do Jogo (A Função main)
 
