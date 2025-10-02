@@ -31,7 +31,7 @@ Justificativa: Número de Iterações Indeterminado: A principal razão para usa
 
 ### - Laços de inicialização e Exibição do tabuleiro (for)
 
-Justifiva: Número de Iterações Conhecido: O tabuleiro do jogo da velha tem um tamanho fixo e conhecido: 3x3.
+Justifiva: Número de Iterações Conhecido, o tabuleiro do jogo da velha tem um tamanho fixo e conhecido.
 <img width="411" height="231" alt="image" src="https://github.com/user-attachments/assets/3692910e-0f62-43a1-acdb-e7b0509c4117" />
 
 ### - Validação da jogada do usuário (while)
