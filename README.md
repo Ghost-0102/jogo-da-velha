@@ -1,5 +1,5 @@
 # Jogo da velha - Linguagem C
-Pedro Gulherme Cardoso Silva Lima
+Pedro Guilherme Cardoso Silva Lima
 ## ➡️Estrutura Fundamental do Jogo
 
 -> Tabuleiro: Uma matriz 3x3 que representará as casas do jogo.
